@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FakeShop</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="list">List</string>
+    <string name="productModel">Product</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="price">Price</string>
+    <string name="category">Category</string>
+    <string name="loading">Loading...</string>
+    <string name="brand">Brand</string>
+    <string name="fakeshop">FakeShop</string>
+</resources>

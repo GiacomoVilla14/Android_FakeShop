@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_running"
+        android:icon="@drawable/home_vector"
+        android:title="@string/home" />
+    <item
+        android:id="@+id/nav_cycling"
+        android:icon="@drawable/list_vector"
+        android:title="@string/list" />
+</menu>
